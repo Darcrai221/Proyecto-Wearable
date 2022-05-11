@@ -1,5 +1,5 @@
 # Proyecto-Wearable
 Estudiantes:
-Marlene Medellin Gónzalez
+Marlene Medellin González
 Marc Antony Martínez Mejía
 
