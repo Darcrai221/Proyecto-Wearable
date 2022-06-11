@@ -16,3 +16,4 @@ Estudiantes:
 
 ### **CONTENIDO**
 #### Modelos 3D Case [Modelos 3D Case](https://github.com/Darcrai221/Proyecto-Wearable/tree/Dise%C3%B1os3DCase "Modelos 3D Case")
+#### Codigos de pruebas de reconocimiento de imagenes [Pruebas reconocimiento](https://github.com/Darcrai221/Proyecto-Wearable/tree/PruebasReconocimientoImagenes "Pruebas reconocimiento")
