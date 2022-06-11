@@ -17,4 +17,4 @@ Estudiantes:
 > 3.- Carcasa ergonómica: Permitirá al usuario transportar el dispositivo con facilidad en alguna parte de su cuerpo.
 
 **CONTENIDO**
-##### Modelos 3D Case[Modelos 3D Case](https://github.com/Darcrai221/Proyecto-Wearable/tree/Dise%C3%B1os3DCase "Modelos 3D Case")
+##### Modelos 3D Case [Modelos 3D Case](https://github.com/Darcrai221/Proyecto-Wearable/tree/Dise%C3%B1os3DCase "Modelos 3D Case")
